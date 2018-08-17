@@ -1,0 +1,54 @@
+body {
+	background: #ffbfc5;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+	max-width: 800px;
+	margin: 20px auto;
+}
+
+#wrapper header {
+	color: #fff;
+	font-weight: 300;
+	font-size: 3em;
+	margin-bottom: 10px;
+}
+
+#wrapper article {
+	padding: 20px;
+	border-radius: 10px;
+	background: #fff;
+	color: #111;
+}
+
+#wrapper article p {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #936E71;
+}
+
+a:hover {
+	color: #A1787C;
+}
+
+a:active {
+	color: #876569;
+}
+
+/* a#mastodon {
+	color: #2b90d9;
+}
+
+a#twitter {
+	color: #00aced;
+}
+
+a#github {
+	color: #4078c0;
+} */
